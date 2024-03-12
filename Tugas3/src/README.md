@@ -1,16 +1,16 @@
 # 📁 Tugas 3 : Class Diagram
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Tsania Lutfiani Hanifa            
+NIM  : 235150601111011
 
 ## 📤 Submission
 
-Tema yang dipilih : 
+Tema yang dipilih : Pekerjaan
 Class Diagram yang dibuat : 
-1. Class Diagram 1
-2. Class Diagram 2
-dst
+1. Class Diagram Atlet
+2. Class Diagram Polisi
+3. Class Diagram Koki
 
 ## 🔗 Link Penjelasan Tugas
 

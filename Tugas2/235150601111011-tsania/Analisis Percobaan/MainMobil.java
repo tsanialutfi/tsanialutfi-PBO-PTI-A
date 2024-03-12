@@ -1,7 +1,23 @@
-package Tugas2.235150601111011-tsania.Analisis Percobaan;
+import java.util.Scanner;
 
 public class MainMobil {
     public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        //instan objek bernama m3 
+        //jawaban nomor 3
+        Mobil m3 = new Mobil();
+        System.out.println("Masukkan kecepatan mobil : ");
+        m3.setKecepatan(input.nextInt());
+        input.nextLine();
+        System.out.println("Masukkan manufaktur mobil : ");
+        m3.setManufaktur(input.nextLine());
+        System.out.println("Masukkan no plat mobil : ");
+        m3.setNoPlat(input.nextLine());
+        System.out.println("Masukkan warna mobil : ");
+        m3.setWarna(input.nextLine());
+        m3.displayMessage();
+
         //instan objek bernama m1
         Mobil m1 = new Mobil();
         m1.setKecepatan(50);
