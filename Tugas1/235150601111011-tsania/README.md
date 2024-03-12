@@ -14,5 +14,9 @@ Fitur yang ditiru : fitur pembuat grade otomatis
 
 ## 🔗 Link Penjelasan Tugas
 
+<<<<<<< HEAD
 https://youtu.be/jnCALNQhGZI?si=YXIcxv0CP-8CQ_P8
+=======
+https://youtu.be/jnCALNQhGZI?si=2VLrJ7mclWCJVVNi
+>>>>>>> b155a12dfb180de77ecd99e849d3aa8fac9b23f9
 
