@@ -28,15 +28,15 @@ class Library {
                 String author = "Penulis " + (i + 1);
             }
                 
-                Book book1 = new Book("Teknologi", "Perkembangan Teknologi", "Asti");
+                Book book1 = new Book("Perkembangan Teknologi", "Asti");
                 bookCategory.addBook(book1);
-                Book book2 = new Book("Filosofi", "Apa itu Filosofi", "Dewi");
+                Book book2 = new Book("Filosofi Buku", "Dewi");
                 bookCategory.addBook(book2);
-                Book book3 = new Book("Fiksi", "Timun Mas", "Andika");
+                Book book3 = new Book("Timun Mas", "Pande");
                 bookCategory.addBook(book3);
-                Book book4 = new Book("Sejarah", "Sejarah Peradaban", "Diandra");
+                Book book4 = new Book("Sejarah Islam", "Diandra");
                 bookCategory.addBook(book4);
-                Book book5 = new Book("Agama", "Agama Islam", "Ali");
+                Book book5 = new Book("Islam itu Indah", "Ali");
                 bookCategory.addBook(book5);
                 this.categories.add(bookCategory);
                 
@@ -46,13 +46,14 @@ class Library {
     public void displayBooks() {
         for (BookCategory category : categories) {
             System.out.println("Kategori: " + category.getName());
-            for (Book book : category.getBooks()) {
+             for (Book book : category.getBooks()){
                 System.out.println("Judul: " + book.getTitle());
                 System.out.println("Penulis: " + book.getAuthor());
                 System.out.println();
-            }
+             }
         }
     }
+
 
     public static void main(String[] args) {
         Library library = new Library();

@@ -13,12 +13,9 @@ NIM  : 235250601111011
 
 Nama Aplikasi Program : Perpustakaan   
 Fitur Aplikasi Program :                   
-1. fitur A
-2. fitur B
-3. fitur C 
-4. dst
+1. fitur Display Buku 
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/tD-NZ2TXo90?si=jBkq_c9QrIWilc9o
 

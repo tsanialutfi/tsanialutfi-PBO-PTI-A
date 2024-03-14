@@ -5,11 +5,15 @@ class Book {
     private String title;
     private String author;
 
-    public Book(String category, String title, String author) {
+    public Book(String title, String author) {
         this.category = category;
         this.title = title;
         this.author = author;
     }   
+    
+    public String getCategory(){
+        return category;
+     }
 
     public String getTitle() {
         return title;
