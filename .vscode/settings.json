@@ -2,10 +2,11 @@
     "java.project.sourcePaths": [
         "Tugas4/Tugas 4/src",
         "Tugas4/Tugas 4/Data dan Analisis Percobaan/Modul2",
+        "Tugas4/Tugas 4/Data dan Analisis Percobaan/Modul1",
         "Tugas3/src",
         "Tugas3/diagrams",
         "Tugas2/235150601111011-tsania/Tugas Praktikum",
         "Tugas2/235150601111011-tsania/Analisis Percobaan",
-        "Tugas4/Tugas 4/Data dan Analisis Percobaan/Modul1"
+        "Tugas5/Data dan Analisis Percobaan"
     ]
 }

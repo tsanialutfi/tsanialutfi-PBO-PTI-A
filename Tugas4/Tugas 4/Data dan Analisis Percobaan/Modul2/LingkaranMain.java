@@ -1,10 +1,14 @@
 public class LingkaranMain {
     public static void main(String[] args) {
-        Lingkaran 1 = new Lingkar;
-        1.setTinggi(10);
-        1.displayMessage();
+        Lingkaran l = new Lingkaran(3);
+        l.setTinggi(10);
+        l.displayMessage();
 
-        Lingkaran 12 = new Lingkaran(4,10);
-        12.displayMessage
+        Lingkaran l2 = new Lingkaran(4,10);
+        l2.displayMessage();
+
+        //jawaban nomor 3
+        Lingkaran Lstring = new Lingkaran("10", "20");
+        Lstring.displayMessage();
     }
 }

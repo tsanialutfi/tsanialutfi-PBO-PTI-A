@@ -3,27 +3,27 @@ import java.util.Scanner;
 public class MainStudent {
     public static void main(String[] args) {
         //jawaban nomor 4
-        Scanner scanner = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         System.out.print("Masukkan jumlah siswa: ");
-        int numberOfStudents = scanner.nextInt();
-        //int[] students = new int[numberOfStudents];
-
+        int numberOfStudents = input.nextInt();
+        Student [] students = new Student[numberOfStudents];
+        
         for (int i = 0; i < numberOfStudents; i++) {
+            students[i] = new Student();
             System.out.println("Masukkan data siswa ke-" + (i+1) + ": ");
-            //students[i] = scanner.nextInt();
             System.out.print("Nama: ");
-            String name = scanner.next();
+            String name = input.next();
             System.out.print("Alamat: ");
-            String address = scanner.next();
+            String address = input.next();
             System.out.print("Umur: ");
-            int age = scanner.nextInt();
+            int age = input.nextInt();
             System.out.print("Nilai Matematika: ");
-            double mathGrade = scanner.nextDouble();
+            double mathGrade = input.nextDouble();
             System.out.print("Nilai IPA: ");
-            double scienceGrade = scanner.nextDouble();
+            double scienceGrade = input.nextDouble();
             System.out.print("Nilai Bahasa Inggris: ");
-            double englishGrade = scanner.nextDouble();
-            //System.out.println("Mempunyai nilai rata - rata : "+getAverage());
+            double englishGrade = input.nextDouble();
+
         } 
 
         System.out.println("==============================");

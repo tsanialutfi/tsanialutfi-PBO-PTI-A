@@ -9,8 +9,8 @@ NIM  : 235150601111011
 Tema yang dipilih : Pekerjaan
 Class Diagram yang dibuat : 
 1. Class Diagram Atlet
-2. Class Diagram 2
-dst
+2. Class Diagram Polisi
+3. Class Diagram Koki
 
 ## Implementasi CRUD
 
@@ -27,5 +27,5 @@ Gunakan template ini apabila kamu mengerjakan optional requirements
 
 ## 🔗 Link Penjelasan Tugas
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://youtu.be/BnCeSIF6QYw
 
