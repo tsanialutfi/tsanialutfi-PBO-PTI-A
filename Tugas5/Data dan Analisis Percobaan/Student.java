@@ -2,6 +2,18 @@ public class Student {
     private String name;
     private int mark;
 
+    public Student(String string, String string2, int i) {
+        //TODO Auto-generated constructor stub
+    }
+
+    public Student(String string, String string2, int i, double d, double e, double f) {
+        //TODO Auto-generated constructor stub
+    }
+
+    public Student() {
+        //TODO Auto-generated constructor stub
+    }
+
     public void setName(String n){
         name=n;
     }
@@ -19,6 +31,41 @@ public class Student {
 
     public int getMark(){
         return mark;
+    }
+
+    public void setAddress(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setAddress'");
+    }
+
+    public void setAge(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setAge'");
+    }
+
+    public void setMath(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setMath'");
+    }
+
+    public void setScience(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setScience'");
+    }
+
+    public void setEnglish(int i) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'setEnglish'");
+    }
+
+    public void displayMessage() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'displayMessage'");
+    }
+
+    public static void jmlObjek() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'jmlObjek'");
     }
 
     // public static void main(String[] args) {

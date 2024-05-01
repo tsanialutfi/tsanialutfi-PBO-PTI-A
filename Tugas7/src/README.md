@@ -1,8 +1,8 @@
 # 📁 Tugas 7 : Polymorphisme
 
 ## 👤 Identitas Intern
-Nama : Devan             
-NIM  : 22xxxxxx
+Nama : Tsania Lutfiani Hanifa             
+NIM  : 235150601111011
 
 ## 🔗 Link Penjelasan Tugas
 
