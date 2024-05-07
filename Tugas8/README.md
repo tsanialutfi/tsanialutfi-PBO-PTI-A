@@ -4,7 +4,7 @@
 
 Selamat datang di week 8 sebagai intern di PT Kesoku Band, kali ini Ryo sebagai senior mu akan mengawasimu dalam pelaksanaan tugas minggu ini. Ryo memberikan kamu requirement yang perlu dipenuhi tetapi dia kali ini tidak memberikan optional requirement yang dapat membantu nilai kamu karena terlalu ngantuk.
 
-Modul dapat kamu akses pada file berikut : [File Modul](./modules/Modul%203%20Bab%207%20Polymorfisme-1.pdf)
+Modul dapat kamu akses pada file berikut : [File Modul](./modules/Modul%203%20Bab%207%20Polymorfisme.docx.pdf)
 
 ### ✅ Must Requirements
 Berikut adalah requirements yang harus dipenuhi pada bagian Tugas Praktikum
