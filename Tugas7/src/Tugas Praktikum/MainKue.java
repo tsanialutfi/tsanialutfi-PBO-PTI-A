@@ -101,58 +101,5 @@ public class MainKue {
     } 
 
 }
-        // Kue[] kueTermahal = null;
-        // double hargaTermahal = 0;
-        // for (Kue kuekue : kue) {
-        //     if (kue.length > hargaTermahal) {
-        //         hargaTermahal = kue.length;
-        //         kueTermahal = kue;
-        //     }
-        // }
-        // System.out.println("Kue dengan Harga Termahal: " + kueTermahal);
-
-        // System.out.println("Semua Kue: ");
-        // for (Kue k : kue) {
-        //     if (k!= null) {
-        //         System.out.println("Nama Kue: " + k.getNama() + ", Harga: " + k.getHarga());
-        //     }
-        // }
-        // for (Kue kuekue : kue) {
-        //     if (kue instanceof KuePesanan) {
-        //         System.out.println("Kue Pesanan: " + kue.getNama() + ", Harga: " + kue.getHarga() + ", Berat: " + ((KuePesanan) kue).getBerat());
-        //     } else if (kue instanceof KueJadi) {
-        //         System.out.println("Kue Jadi: " + kue.getNama() + ", Harga: " + kue.getHarga() + ", Jumlah: " + ((KueJadi) kue).getJumlah());
-        //     }
-        // }
-
-        // double totalHarga = 0;
-        // for (Kue kuekue : kue) {
-        //     totalHarga += kue.getHarga();
-        // }
-        // System.out.println("Total Harga: " + totalHarga);
-
-        // double totalHargaPesanan = 0;
-        // double totalBeratPesanan = 0;
-        // for (Kue kuekue : kue) {
-        //     if (kue instanceof KuePesanan) {
-        //         totalHargaPesanan += kue.getHarga();
-        //         totalBeratPesanan += ((KuePesanan) kue).getBerat();
-        //     }
-        // }
-        // System.out.println("Total Harga Kue Pesanan: " + totalHargaPesanan);
-        // System.out.println("Total Berat Kue Pesanan: " + totalBeratPesanan);
-
-        // double totalHargaJadi = 0;
-        // int totalJumlahJadi = 0;
-        // for (Kue kuekue : kue) {
-        //     if (kue instanceof KueJadi) {
-        //         totalHargaJadi += kue.getHarga();
-        //         totalJumlahJadi += ((KueJadi) kue).getJumlah();
-        //     }
-        // }
-        // System.out.println("Total Harga Kue Jadi: " + totalHargaJadi);
-        // System.out.println("Total Jumlah Kue Jadi: " + totalJumlahJadi);
-
-        //
         
 

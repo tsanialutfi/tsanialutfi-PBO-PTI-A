@@ -1,5 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Tugas8/src/Analisis Percobaan",
+        "Tugas7/src/Tugas Praktikum",
         "Tugas7/src/Analisis Percobaan",
         "Tugas6/src",
         "Tugas6/Tugas Praktikum",
@@ -12,7 +14,7 @@
         "Tugas3/diagrams",
         "Tugas2/235150601111011-tsania/Tugas Praktikum",
         "Tugas2/235150601111011-tsania/Analisis Percobaan",
-        "Tugas7/src/Tugas Praktikum"
+        "Tugas8/src/Tugas Praktikum"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
